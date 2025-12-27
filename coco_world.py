@@ -11,7 +11,7 @@ WINDOW_HEIGHT = 500
 # --- MAIN WINDOW ---
 
 window = Tk()
-window.title("Coco Game")
+window.title("COCO'S WORLD")
 window.geometry(f"{WINDOW_WIDTH}x{WINDOW_HEIGHT}")
 window.resizable(False, False)
 
